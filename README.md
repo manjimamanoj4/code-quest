@@ -20,3 +20,7 @@ CodeQuest is a gamified coding learning platform that helps users learn and prac
 - Code Execution: Judge0 API
 - AI: AI Chatbot
 
+<img width="1600" height="737" alt="WhatsApp Image 2026-09-04 at 09 14 15" src="https://github.com/user-attachments/assets/ac8ea718-79c3-45d6-951a-2f425b25e2b2" />
+<img width="1600" height="756" alt="WhatsApp Image 2026-09-03 at 20 38 55" src="https://github.com/user-attachments/assets/7beec5e5-c127-4b9e-a73d-1e85273d4fba" />
+<img width="1280" height="611" alt="WhatsApp Image 2026-09-03 at 20 38 56" src="https://github.com/user-attachments/assets/79de2666-9b84-4b5d-9ae8-ff7d3104c626" />
+
